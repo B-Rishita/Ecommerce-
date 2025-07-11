@@ -3,7 +3,7 @@
     <!-- Navbar -->
     <header>
       <nav class="navbar">
-        <div class="logo">LIVING LUXE</div>
+        <div class="logo">VELURE LIVING</div>
         <div class="nav-links">
           <router-link to="/" class="nav-link">Home</router-link>
           <router-link to="/about" class="nav-link">About Us</router-link>

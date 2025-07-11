@@ -2,7 +2,7 @@
   <div>
     <header>
       <nav class="navbar">
-        <div class="logo">LIVING LUXE</div>
+        <div class="logo">VELURE LIVING</div>
         <div class="nav-links">
           <router-link to="/" class="nav-link">Home</router-link>
           <router-link to="/about" class="nav-link" exact-active-class="active">About Us</router-link>
@@ -40,16 +40,16 @@
         <img src="https://tse3.mm.bing.net/th?id=OIP.p6FDooMyjlI8SlbY9Jol0gHaE8&pid=Api&P=0&h=180" alt="Corporate Office Interior" />
       </div>
       <p class="office-address">
-        Living Luxe Headquarters<br />
-        123 Luxury Lane, Suite 456<br />
+        Velure Living Headquarters<br />
+        123 Velure Living, Suite 456<br />
         Metropolis City, State, ZIP Code<br />
-        Phone: (123) 456-7890
+        Phone: (098) 765-4321
       </p>
     </section>
 
     <!-- Footer -->
     <footer class="footer">
-      <p>&copy; 2024 Living Luxe. All rights reserved.</p>
+      <p>&copy; 2025 Velure Living. All rights reserved.</p>
     </footer>
   </div>
 </template>
@@ -68,7 +68,7 @@ export default {
         {
           image: "https://tse3.mm.bing.net/th?id=OIP.ggOtIAvvf_bRKqAFU5VS5gAAAA&pid=Api&P=0&h=180",
           title: "Partnership Announcement",
-          description: "Living Luxe is proud to partner with leading brands to bring you the best."
+          description: "VELURE LIVING is proud to partner with leading brands to bring you the best."
         },
         {
           image: "https://tse2.mm.bing.net/th?id=OIP.6JVRQFnvusd6uYB3536NWQHaFj&pid=Api&P=0&h=180",
@@ -83,13 +83,9 @@ export default {
         {
           image: "https://tse2.mm.bing.net/th?id=OIP.pWIZvEUruBIhRjjAyTEjHgHaFj&pid=Api&P=0&h=180",
           title: "Website launch Date",
-          description: "Our website 'LIVING LUXE' was launched on 22 May 2020. It was a memorable day."
+          description: "Our website 'VELURE LIVING' was launched on 22 June 2022."
         },
-        {
-          image: "https://tse4.mm.bing.net/th?id=OIP.k1pCpCL4u2pzLcu7cYhEAgHaHa&pid=Api&P=0&h=180",
-          title: "Meet Our CEO",
-          description: " The visionary CEO of Living Luxe, has over 15 years of experience in e-commerce."
-        },
+       
       ]
     };
   },

@@ -2,7 +2,7 @@
   <div>
     <header>
       <nav class="navbar">
-        <div class="logo">LIVING LUXE</div>
+        <div class="logo">VELURE LIVING</div>
         <div class="nav-links">
           <router-link to="/" class="nav-link" exact-active-class="active">Home</router-link>
           <router-link to="/about" class="nav-link">About Us</router-link>
@@ -32,19 +32,19 @@
 
       <section class="contact-us">
         <h2>Contact Us</h2>
-        <p>We'd love to hear from you! Whether you have questions about our products, need assistance with your order, or simply want to learn more about our home decor collections, we're here to help. Our dedicated customer service team is available to assist you and ensure that your experience with Living Luxe is smooth and enjoyable.<br>
+        <p>We'd love to hear from you! Whether you have questions about our products, need assistance with your order, or simply want to learn more about our home decor collections, we're here to help. Our dedicated customer service team is available to assist you and ensure that your experience with VELURE LIVING is smooth and enjoyable.<br>
             You can reach us through the following methods:<br>
             <b>o</b>Email: support@livingluxe.com<br>
             <b>o</b>Phone: +1 (800) 123-4567<br>
             <b>o</b>Address: 123 Luxe St, Cityville, State, 12345<br>
             Alternatively, you can fill out the form below, and one of our representatives will get back to you as soon as possible. We value your feedback and are committed to providing exceptional service.<br>
-            Thank you for choosing Living Luxe—where luxury meets comfort!</p>
+            Thank you for choosing VELURE LIVING—where luxury meets comfort!</p>
       </section>
     </div>
 
     <!-- Footer -->
     <footer class="footer">
-      <p>&copy; 2024 Living Luxe. All rights reserved.</p>
+      <p>&copy; 2024 VELURE LIVING. All rights reserved.</p>
     </footer>
   </div>
 </template>
