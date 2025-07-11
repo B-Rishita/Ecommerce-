@@ -34,9 +34,9 @@
         <h2>Contact Us</h2>
         <p>We'd love to hear from you! Whether you have questions about our products, need assistance with your order, or simply want to learn more about our home decor collections, we're here to help. Our dedicated customer service team is available to assist you and ensure that your experience with VELURE LIVING is smooth and enjoyable.<br>
             You can reach us through the following methods:<br>
-            <b>o</b>Email: support@livingluxe.com<br>
+            <b>o</b>Email: support@velureliving.com<br>
             <b>o</b>Phone: +1 (800) 123-4567<br>
-            <b>o</b>Address: 123 Luxe St, Cityville, State, 12345<br>
+            <b>o</b>Address: 321 Luxe St, Cit, State, 54321<br>
             Alternatively, you can fill out the form below, and one of our representatives will get back to you as soon as possible. We value your feedback and are committed to providing exceptional service.<br>
             Thank you for choosing VELURE LIVING—where luxury meets comfort!</p>
       </section>
